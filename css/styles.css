@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Subrayada:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: green;
+    text-align: center;
+    color: white;
+    font-family: "Play";
+}
+
+#title {
+    color: gold;
+}
+
+h1 {
+    font-family: "Montserrat Subrayada";
+    font-size: 35px;
+    border: 5px double white;
+    border-radius: 25px;
+    padding: 7px;
+    background-color: black;
+    color: white;
+}
+
+#deal {
+    background-color: red;
+    font-weight: bold;
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+}
+
+#hit {
+    background-color: yellow;
+    font-weight: bold;
+    width: 70px;
+    height: 25px;
+    cursor: pointer;
+}
+
+
+
