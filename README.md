@@ -3,7 +3,7 @@
 The Blackjack Haus is an online remake (browser-based game) of the original "blackjack" card game. 
 
 
-<img src="images/blackjackhaus.png"></img>
+<img src="images/blackjackhaus.png" width="500">
 
 
 ## Game Play
@@ -13,9 +13,9 @@ The game will only have one player. The object of the game is for the player to 
 
 ## Technologies Used
 
+- JavaScript
 - HTML
 - CSS
-- Javascript
 
 Currently working on the app to:
 - get GitHub pages link working
