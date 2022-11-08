@@ -17,8 +17,6 @@ The game will only have one player. The object of the game is for the player to 
 - HTML
 - CSS
 
-Currently working on the app to:
-- get GitHub pages link working
 
 ## Next Steps?
 
