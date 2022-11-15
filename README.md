@@ -3,9 +3,6 @@
 The Blackjack Haus is an online remake (browser-based game) of the original "blackjack" card game. 
 
 
-<img src="images/blackjackhaus.png" width="500">
-
-
 ## Game Play
 
 The game will only have one player. The object of the game is for the player to reach the sum of 21. Player must "hit" until blackjack is achieved, which will end the game.
