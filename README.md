@@ -19,7 +19,7 @@ The game will only have one player. The object of the game is for the player to 
 
 Click the following link to render the game in browser:
 
-https://kjicodes.github.io/blackjack-haus/
+[Play Now](https://kjicodes.github.io/blackjack-haus/)
 
 
 ## Next Steps?
