@@ -15,6 +15,13 @@ The game will only have one player. The object of the game is for the player to 
 - CSS
 
 
+## Getting Started
+
+Click the following link to render the game in browser:
+
+https://kjicodes.github.io/blackjack-haus/
+
+
 ## Next Steps?
 
 For the future, I will try to include a dealer's hand and/or more users, to make the game a more enjoyable experience. Will also add some background sounds and images to better appeal to users. 
